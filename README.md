@@ -1,9 +1,7 @@
-# Ex. No.  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
-
-### Name:HARINI S
+# Ex. No.6.1- SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
+### DATE: 02-06-2026
+### Name: HARINI S
 ### Register Number:212224240049
-### DATE: 26-05-2026
-
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
 
